@@ -6,5 +6,5 @@ const newHeader = document.createElement("h1");
 
 newHeader.id = "victory";
 
-const newHeader = document.createElement("h1").remove();
+const newHeader = document.createElement("h1").element.remove();
 newHeader.innerHTML = "YOUR-NAME is the champion";
